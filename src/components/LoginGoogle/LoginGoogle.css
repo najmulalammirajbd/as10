@@ -1,0 +1,18 @@
+
+.google button {
+    border: none;
+    margin-left: 550px;
+    margin-top: 152px;
+    margin-bottom: 152px;
+    background-color: rgba(128, 128, 128, 0.678);
+    color: white;
+    border-radius: 7px 0px 7px 0px ;
+}
+.google button img {
+    width: 33px;
+    margin: 10px;
+}
+h1 {
+    text-align: center;
+    padding-top: 40px;
+}

@@ -1,0 +1,17 @@
+.products1 {
+    display: flex;
+    padding-left: 20px;
+}
+.products1 img {
+    width: 80%;
+}
+.products1 button{
+    margin: 10px;
+    text-decoration: none;
+    border: none;
+    padding: 10px 48px;
+    background-color: #3f90fc;
+    border-radius: 6px;
+    color: white;
+    text-align: center;
+}

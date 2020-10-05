@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+}
+.logo img{
+    width: 200px;
+}
+.manu a{
+    margin: 10px;
+    text-decoration: none;
+}
+.manu button{
+    margin: 10px;
+    text-decoration: none;
+    border: none;
+    padding: 10px 26px;
+    background-color: #3f90fc;
+    border-radius: 6px;
+    color: white;
+}
